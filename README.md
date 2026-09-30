@@ -15,7 +15,9 @@ Eğitim aşamasında veri ön işleme (preprocessing) ve modelleme adımları te
 
 ## 💻 Canlıya Alma (Deployment) ve Kullanım
 Proje, bir REST API olarak hizmet vermektedir ve kullanıcı dostu bir web arayüzüne sahiptir. Gelen JSON formatındaki HTTP POST istekleri FastAPI arka planında işlenir, eğitilmiş Pickle modeli üzerinden geçirilir ve anında kargo durum raporu (Sorunsuz/Riskli) olarak geri döndürülür.
-![Kargo Risk Tahmin Arayüzü](shipping_screenshot.png)
+![Kargo Risk Tahmin Arayüzü]
+<img width="833" height="746" alt="shipping_screenshot" src="https://github.com/user-attachments/assets/07fdf78c-60a5-42bf-a588-48debcacda2e" />
+
 
 ### Kurulum Adımları
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
